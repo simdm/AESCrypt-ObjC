@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/simdm/AESCrypt-ObjC'
   s.author   = { 'Devin Doty' => 'devin.r.doty@gmail.com' }
   s.source   = { :git    => 'https://github.com/simdm/AESCrypt-ObjC.git',
-                 :branch => ‘master’  }
+                 :branch => 'master'  }
 
   s.source_files = 'AESCrypt-ObjC/*.{h,m}'
 
